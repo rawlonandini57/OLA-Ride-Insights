@@ -74,10 +74,3 @@ Created an **interactive dashboard** to visualize ride data trends:
 2️⃣ **Run SQL queries** to extract insights – [`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)  
 3️⃣ **Explore the Power BI dashboard** for visualization.  
 3️⃣ **Explore the Power BI dashboard insights** – [`OLA_POWER_BI-ANSWERS.png`](./OLA_POWER_BI-ANSWERS.png)  
-
----
-
-## 📢 Let's Connect!  
-💡 If you liked this project, feel free to ⭐ star the repository and share your thoughts!  
-
-🔗 **Connect with me on LinkedIn** – [Rohit Panwar](https://www.linkedin.com/in/rohit-panwar22/)  
