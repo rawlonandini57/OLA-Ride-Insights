@@ -3,7 +3,7 @@ import pandas as pd
 import plotly.express as px
 
 # 1. Page Configuration
-st.set_page_config(page_title="OLA Analytics Pro", layout="wide")
+st.set_page_config(page_title="OLA Ride Insights", layout="wide")
 
 # 2. SMART DATA CONNECTION (SQL with CSV Fallback)
 @st.cache_data
