@@ -59,7 +59,7 @@ Created an **interactive dashboard** to visualize ride data trends:
 ---
 
 ## 📂 Repository Files  
-📄 **[`OLA_DATASET.csv`](./OLA_DATASET.csv)** – Raw ride dataset  
+📄 **[`OLA_DATASET.csv`](./OLA_Ride_Data_Sheet.csv)** – Raw ride dataset  
 📝 **`README.md`** – Project details and insights  
 🖼 **[`OLA_QUESTIONS.png`](./OLA_QUESTIONS.png)** – Analysis plan & questions  
 🖼 **[`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)** – SQL analysis results  
@@ -70,7 +70,7 @@ Created an **interactive dashboard** to visualize ride data trends:
 ---
 
 ## 🚀 How to Use This Project?  
-1️⃣ **Download the dataset** – [`OLA_DATASET.csv`](./OLA_DATASET.csv)  
+1️⃣ **Download the dataset** – [`OLA_DATASET.csv`](./OLA_Ride_Data_Sheet.csv)  
 2️⃣ **Run SQL queries** to extract insights – [`OLA_SQL-ANSWERS.png`](./OLA_SQL-ANSWERS.png)  
 3️⃣ **Explore the Power BI dashboard** for visualization.  
 3️⃣ **Explore the Power BI dashboard insights** – [`OLA_POWER_BI-ANSWERS.png`](./OLA_POWER_BI-ANSWERS.png)  
