@@ -15,6 +15,10 @@ def load_data():
 
 df = load_data()
 
+# DEBUG: Print column names
+st.write("Column names:", df.columns.tolist())
+st.write(df.head())
+
 # Sidebar Filters
 st.sidebar.header("Filters")
 
