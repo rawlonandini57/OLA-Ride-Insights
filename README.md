@@ -3,11 +3,8 @@
 
 🚀 This project provides **data-driven insights into ride trends, cancellations, revenue, and customer ratings** using: 
 
-
 ✅ **SQL Queries** – Data extraction & transformation 
-
 ✅ **Power BI Dashboard** – Interactive visualizations
-
 ✅ **Excel Processing** – Data cleaning & structuring 
 
 **Domain:** Ride-Sharing & Mobility Analytics
